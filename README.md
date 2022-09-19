@@ -1,2 +1,3 @@
 # ml_lab_2_fashion_mnist
-A repo to store lab practice for Machine learning course
+
+To run this notebook you need to have the uncompressed folder you can download from [here](https://www.kaggle.com/datasets/zalando-research/fashionmnist) renamed as Files
